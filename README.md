@@ -5,7 +5,6 @@ This project focuses on developing a system for learning question similarity usi
 The Quora Question Pairs Dataset is utilized for training and testing. You can download the dataset from the following link:
 [Download Quora Question Pairs Dataset](http://qim.fs.quoracdn.net/quora_duplicate_questions.tsv)
 
-## Description
 
 # Description
 The system architecture is based on the Manhattan Siamese LSTM model,this project is centered around English language support. The project aims to implement the model and explore question similarity detection.
